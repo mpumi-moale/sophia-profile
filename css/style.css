@@ -60,24 +60,16 @@ a:hover {
     color: #131313;
 }
 
-/* LAYOUT COLOR */
+/* LAYOUT  */
 
 header,
 section {
     padding: 100px 0;
 }
 
-header {
-    background-color: #D7D7D7 ;
+.inverse {
+    background-color: #252525;
+    color: #fff;
 }
-
-.about-me {
-    background-color: #FFEAEA;
-}
-
-.articles{
-    background-color: #EAF9FF;
-}
-
 
 

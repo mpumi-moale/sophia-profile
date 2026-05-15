@@ -11,6 +11,20 @@ body {
 }
 
 /* typography */
+
+h1 .bold-text {
+    font-size: 80px;
+}
+
+h2 .bold-text {
+    font-size: 60px;
+}
+
+.bold-text {
+    display: block;
+}
+
+
 h1, 
 h2 {
     font-weight: 300;
@@ -32,3 +46,6 @@ h3 {
 .small-text {
     font-size: 16px;
 }
+
+
+

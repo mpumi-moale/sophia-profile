@@ -28,6 +28,7 @@ h2 {
 
 h1 {
     font-size: 60px;
+    
 }
 
 h2 {
@@ -70,6 +71,23 @@ section {
 .inverse {
     background-color: #252525;
     color: #fff;
+}
+
+/* BUTTONS */
+
+.btn {
+    display: inline-block;
+    color: #252525;
+    text-decoration: none;
+    background: #99D930;
+    padding: 10px 25px;
+    margin-top: 25px;
+}
+
+.btn:hover,
+.btn:focus {
+    color: #fff;
+    background: #252525;
 }
 
 
